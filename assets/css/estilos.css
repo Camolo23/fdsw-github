@@ -37,7 +37,3 @@ body {
   }
 
 }
-
-.backdrop-blur {
-  backdrop-filter: blur(100px);
-}
